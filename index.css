@@ -1,0 +1,50 @@
+
+body {
+    font-family: 'Ubuntu', sans-serif !important;
+}
+
+.landImage {
+    margin: auto;
+    width: 50%;
+    border: 2px solid black;
+    padding: 10px;
+    text-align:center;
+}
+
+.nav-item {
+    padding-right: 45px;
+
+}
+
+.navbar {
+    margin-bottom: 20px;
+    border-bottom: 5px solid black;
+}
+
+.card {
+    text-align: left;
+}
+
+.section-card{
+    margin-bottom:5px;
+    font-size:1.5rem;
+    color: blue;
+    font-weight: bold;
+}
+
+.dateObject{
+    margin-top:20px;
+    margin-bottom: 20px;
+    font-weight: bold;
+}
+
+.container {
+    margin: 15px 10%;
+}
+
+.imageCenter{
+    height: 300px;
+    width: 400px !important;
+    margin-left: 500px;
+    margin-top: 100px !important;
+}
